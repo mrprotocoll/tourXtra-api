@@ -73,7 +73,7 @@ To access the documentation, run the rails server using `rails s` and goto the a
 
 ## 🚀 Link to Front-end <a name="front-end"></a>
 
-- [Link to Front-end](https://github.com/Johnadibe/tour-reservation-app)
+- [Link to Front-end](https://github.com/mrprotocoll/tourXtra)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
