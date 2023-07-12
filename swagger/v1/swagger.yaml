@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.1
 info:
-  title: TourX API V1
+  title: TourXtra API Documentation V1
   version: v1
 paths:
   "/reservations":
