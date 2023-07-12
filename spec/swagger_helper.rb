@@ -25,7 +25,7 @@ RSpec.configure do |config| # rubocop:disable Metrics/BlockLength
           url: 'http://{defaultHost}',
           variables: {
             defaultHost: {
-              default: 'localhost:3000/api/v1'
+              default: 'tourxtra-api.onrender.com/api/v1'
             }
           }
         }
