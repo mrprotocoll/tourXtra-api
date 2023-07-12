@@ -83,6 +83,7 @@ test:
 #
 production:
   <<: *default
-  database: tour_reservation_app_api_production
-  username: tour_reservation_app_api
-  password: <%= ENV["TOUR_RESERVATION_APP_API_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
+  database: recipeapp_i2it
+  username: mrprotocoll
+  password: <%= ENV["MYSITE_DATABASE_PASSWORD"] %>
