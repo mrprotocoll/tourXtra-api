@@ -16,7 +16,7 @@ RSpec.configure do |config| # rubocop:disable Metrics/BlockLength
     'v1/swagger.yaml' => {
       openapi: '3.0.1',
       info: {
-        title: 'TourX API V1',
+        title: 'TourXtra API V1',
         version: 'v1'
       },
       paths: {},

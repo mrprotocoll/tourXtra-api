@@ -209,11 +209,6 @@ paths:
           description: Successful
         '401':
           description: Unauthorized
-servers:
-- url: http://{defaultHost}
-  variables:
-    defaultHost:
-      default: localhost:3000/api/v1
 components:
   securitySchemes:
     bearerAuth:
